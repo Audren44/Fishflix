@@ -1,0 +1,39 @@
+.fishcard {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  height: 100vh;
+  background-color: black;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #1f1f1f;
+  border-radius: 10px;
+  padding: 1rem;
+  max-width: 500px;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+p {
+  margin: 0.5rem 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
